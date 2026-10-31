@@ -1,1 +1,1 @@
-export const origin='https://mcs-towing-86.typical-sammich.chatgpt.site';
+export const origin='https://mcstowing.vercel.app';
